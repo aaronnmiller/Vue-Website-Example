@@ -1,0 +1,17 @@
+[
+    {
+        "id": 123,
+        "name": "lint",
+        "description": "This is lint of the pocket variety"
+    },
+    {
+        "id": 124,
+        "name": "sweatshirt pocket lint",
+        "description": "this is pocket flavored but with more sweatshirtyness"
+    },
+    {
+        "id": 125,
+        "name": "dryer lint",
+        "description": "straight outta da dryer"
+    }
+]

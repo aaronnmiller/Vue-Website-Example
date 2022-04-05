@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "liquid": "milk",
+        "taste": "amazing",
+        "drinkAfterAbility": "amazing"
+    },
+    {
+        "id": 1,
+        "liquid": "water",
+        "taste": "not great",
+        "drinkAfterAbility": "bad"
+    },
+    {
+        "id": 2,
+        "liquid": "coffee",
+        "taste": "horrendous",
+        "drinkAfterAbility": "don't"
+    },
+    {
+        "id": 3,
+        "liquid": "sweet tea",
+        "taste": "a little sweet, but not horrible",
+        "drinkAfterAbility": "like fruit tea"
+    },
+    {
+        "id": 4,
+        "liquid": "gravy",
+        "taste": "sweet and savory do not work",
+        "drinkAfterAbility": "don't even try"
+    },
+    {
+        "id": 5,
+        "liquid": "coke",
+        "taste": "probably not the worst",
+        "drinkAfterAbility": "flat soda is a no"
+    },
+    {
+        "id": 6,
+        "liquid": "mango guava starbucks energy drink",
+        "taste": "horrible bad idea",
+        "drinkAfterAbility": "just tastes like bad flavored water"
+    },
+    {
+        "id": 7,
+        "liquid": "orange juice",
+        "taste": "mediocre",
+        "drinkAfterAbility": "chunky orange juice is not great"
+    },
+    {
+        "id": 8,
+        "liquid": "strawberry milk",
+        "taste": "amazing",
+        "drinkAfterAbility": "great, especially with fruit loops"
+    },
+    {
+        "id": 9,
+        "liquid": "worcestershire sauce",
+        "taste": "what do you think. bad.",
+        "drinkAfterAbility": "might end up in the hospital"
+    }
+]
